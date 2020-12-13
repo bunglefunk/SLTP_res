@@ -1,0 +1,10 @@
+{
+	"music_disc.honeybee": {
+		"sounds": [
+			{
+				"name": "records/honeybee",
+				"stream": true
+			}
+		]
+	}
+}
