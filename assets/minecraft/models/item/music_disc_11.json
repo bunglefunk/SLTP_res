@@ -1,12 +1,56 @@
 {
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/music_disc_11"
-	},
-
-	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/music_disc_honeybee"},
-		{"predicate": {"custom_model_data":2}, "model": "item/music_disc_pinot"},
-		{"predicate": {"custom_model_data":3}, "model": "item/music_disc_pulse"}
-	]
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_11"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/music_disc_honeybee"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/music_disc_pinot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/music_disc_pulse"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/music_disc_tellem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/music_disc_bustin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/music_disc_freelance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/music_disc_mom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/music_disc_brit"
+        }
+    ]
 }

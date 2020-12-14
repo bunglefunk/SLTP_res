@@ -1,26 +1,73 @@
 {
-	"music_disc.honeybee": {
-		"sounds": [
-			{
-				"name": "records/honeybee",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.pinot": {
-		"sounds": [
-			{
-				"name": "records/pinot",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.pulse": {
-		"sounds": [
-			{
-				"name": "records/pulse",
-				"stream": true
-			}
-		]
-	}
+"music_disc.honeybee": {
+    "sounds": [
+        {
+            "name": "records/honeybee",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pinot": {
+    "sounds": [
+        {
+            "name": "records/pinot",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pulse": {
+    "sounds": [
+        {
+            "name": "records/pulse",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.tellem": {
+    "sounds": [
+        {
+            "name": "records/tellem",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bustin": {
+    "sounds": [
+        {
+            "name": "records/bustin",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.freelance": {
+    "sounds": [
+        {
+            "name": "records/freelance",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mom": {
+    "sounds": [
+        {
+            "name": "records/mom",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.brit": {
+    "sounds": [
+        {
+            "name": "records/brit",
+            "stream": true
+        }
+    ]
+}
 }
